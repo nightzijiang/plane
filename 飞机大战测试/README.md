@@ -8,21 +8,21 @@
 
 界面主要是这样的
 
-![](\飞机大战测试\pic\M.png)
+![M.png](https://i.loli.net/2019/10/24/VaksyLJ5eEmhKg3.png)
 
 可使用鼠标和键盘操作
 
 
 
-共有以下两个模式：
+**共有以下两个模式：
 
 #### 普通模式
 
-![](G:\ali_py\附件\飞机大战测试 (2)\飞机大战测试\pic\mode1.png)
+![mode1.png](https://i.loli.net/2019/10/24/2abJ8UBiMlVfj6S.png)
 
 #### BOSS模式
 
-![](G:\ali_py\附件\飞机大战测试 (2)\飞机大战测试\pic\mode2.png)
+![mode2.png](https://i.loli.net/2019/10/24/y31QbfpizJ4xmlW.png)
 
 
 
@@ -36,4 +36,4 @@
 
 ### 以及良好的展示
 
-![](G:\ali_py\附件\飞机大战测试 (2)\飞机大战测试\pic\option.png)
+![option.png](https://i.loli.net/2019/10/24/1LNhHI4S6vb7pYD.png)
